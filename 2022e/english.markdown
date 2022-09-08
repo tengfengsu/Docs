@@ -40,7 +40,7 @@ The objective of （ architecture design ）is to determine what parts of the ap
 架构设计的目标是确定应用软件的哪些部分将分配到何种硬件。识别出正在开发系统的主要软件构件并分配到系统将要运行的硬件构件。所有软件系统可分为四项基本功能。第一项是数据存储。大多数信息系统需要数据进行存储并检索，不论是一个小文件，比如一个字处理器产生的一个备忘录，还是一个大型数据库，比如存储一个企业会计记录的数据库。第二项功能是数据访问逻辑，处理过程需要访问数据，这通常是指用SQL进行数据库查询。第三项功能是应用程序逻辑，这些逻辑通过数据流图，用例和功能需求来记录。第四项功能是表示逻辑，给用户显示信息并接收用户命令。一个系统的三类主要硬件构件是客户机、服务器和网络。
 </details>
 
-#2014
+# 2014
 Software architecture reconstruction is an interpretive, interactive, and iterative process including many activities. （ Information extraction ）involves analyzing a system's existing design and implementation artifacts to construct a model of it. The result is used in the following activities to construct a view of the system. The database construction activity converts the （ elements and relations ） contained in the view into a standard format for storage in a database. The （ view fusion ）activity involves defining and manipulating the information stored in database to reconcile, augment, and establish connections between the elements. Reconstruction consists of two primary activities: （ visualization and interaction ） and （ pattern definition and recognition ）. The former provides a mechanism for the user to manipulate architectural elements, and the latter provides facilities for architecture reconstruction.
 
 <details>
