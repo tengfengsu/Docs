@@ -119,7 +119,7 @@ The software architecture is a set of software components， subsystems， relat
 软件架构是一组软件构件、子系统、关联关系、交互关系以及其中每个元素的特性和一组指导原则，这些共同构成一个软件系统或一组系统的基本特性和约束。架构模式定义了一组通用的元素类型及其交互关系。其中的例子包括Pipes and Filters、MVC和Reflection。软件架构中的模型是一种表现形式，用于从一个或多个方面理解或记录一个问题或解决方案。架构通常会与一些附属词结合起来使用。业务架构定义了企业的关键策略、组织、目标和相关过程。在企业层面，应用架构可能更多的是一组关于应该如何在整个企业一致地构建各种软件架构的指导原则。参考架构描述了源自特定领域的应用涉及的高层元素集合及其交互关系，通常用于关注子系统的定义而不是应用过程级别定义。
 </details>
 
-#2009 
+# 2009 
 An architectural style defines as a family of such systems in terms of a（pattern）of structural organization．More specifically， an architectural style defines a vocabulary of （components）and connector types， and a set of （constraints） on how they can be combined. For many styles there may also exist one or more （semantic models）that specify how to determine a system’s overall properties from the properties of its parts．Many of architectural styles have been developed over the years.
 The best-known examples of（pipe-and-filter）architectures are programs written in the Unix shell.
 
