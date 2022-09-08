@@ -1,11 +1,5 @@
 # 2021
-The prevailing distributed computing model of the curent era is called ctiem servar computing.A (Client/Server system)
-is a solution in which the presentation.presentatoanaogic,application logic, data manipulation and data layers are
-distributed between client PCs and one or more servers. A ( Thin Client) is a personal computer that does not have to be very powerful in terms of processor speed and memory because it only presents the interface to the user. A (Fat Client) is a personal
-computer, notebook.computer, or workstation that is typically more powerfil in terms of processor
-speed,memory, and storage capacity. A (Database server) hosts one or more shamad database but also executes all
-database commands and services for information systems.A (n) (Web server) hosts Internet or intranet web
-sites,it communicates with clients by returning to them documents and data.
+The prevailing distributed computing model of the curent era is called ctiem servar computing.A (Client/Server system) is a solution in which the presentation,presentatoanaogic,application logic, data manipulation and data layers are distributed between client PCs and one or more servers. A ( Thin Client) is a personal computer that does not have to be very powerful in terms of processor speed and memory because it only presents the interface to the user. A (Fat Client) is a personal computer, notebook.computer, or workstation that is typically more powerfil in terms of processor speed,memory, and storage capacity. A (Database server) hosts one or more shamad database but also executes all database commands and services for information systems.A (n) (Web server) hosts Internet or intranet web sites,it communicates with clients by returning to them documents and data.
 
 <details>
 <summary>翻译</summary>
