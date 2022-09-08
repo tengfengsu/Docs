@@ -49,7 +49,7 @@ Software architecture reconstruction is an interpretive, interactive, and iterat
 软件架构重构是一个解释性、交互式和反复迭代的过程，包括了多项活动。信息提取通过分析系统现有设计和实现工件来构造它的模型。其结果用于在后续活动中构造系统的视图。数据库构建活动把模型中包含的元素和关系转换为数据库中的标准存储格式。视图融合活动包括定义和操作数据库中存储的信息，理顺、加强并建立起元素之间的连接。重构由两个主要活动组成；可视化和交互记及模式定义和识别。前者提供了一种让用户操作架构元素的机制，后者则提供了用于架构重构的设施。
 </details>
 
-2013
+# 2013
 A system's architecture is a representation of a system in which there is a mapping of（functionality ）onto hardware and software components, a mapping of the（ software architecture）onto the hardware architecture. and a concern for the human interaction with these components. That is, system architecture is concerned with a total system, including hardware. software, and humans.
 
 Software architectural structures can be divided into three major categories, depending on the broad nature of the elements they show.
